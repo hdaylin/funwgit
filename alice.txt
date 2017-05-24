@@ -1,3 +1,7 @@
 #Alice 
+<<<<<<< HEAD
 ##java bootcamp merge confict text 
 ##this line edited at branch1
+=======
+  
+>>>>>>> branch2
