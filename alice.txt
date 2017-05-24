@@ -1,2 +1,4 @@
 #Alice 
-##java bootcamp merge confict text 
+##java bootcamp merge confict text
+##this line edited at branch2 
+##this line added ar branch2  
